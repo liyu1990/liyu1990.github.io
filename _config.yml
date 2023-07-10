@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu Li 李玉"
+title                    : "Yu Li's homepage"
 title_separator          : "-"
 name                     : &name "Yu Li 李玉"
 description              : &description "personal description"
