@@ -1,7 +1,7 @@
 ---
 permalink: /
-# title: "Yu Li's homepage"
-excerpt: "About me"
+title: "Yu Li's homepage"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
