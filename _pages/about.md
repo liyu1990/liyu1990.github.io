@@ -16,7 +16,7 @@ My research interests are in machine learning, graph representation learning and
 
 Publication
 ======
-[Signed Laplacian Graph Neural Networks](http://liyu1990.github.io/files/paper2.pdf)
+[Signed Laplacian Graph Neural Networks](http://liyu1990.github.io/files/paper2.pdf) \r\n
 Yu Li, Meng Qu, Jian Tang, Yi Chang
 AAAI2023
 
