@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at School of Data Science of City University of Hong Kong (CityU) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). 
+I am currently a postdoc at School of Data Science of City University of Hong Kong (CityU), supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). 
 Before coming to CityU, I received my Ph.D from Jilin University, where I was supervised by Prof. [Yi Chang](http://www.yichang-cs.com/). 
 Before that, I was a data mining researcher at Qihoo360 from 2016-2018. In addition, I received my Master's degree and Bachelor's degree from Jilin University.
 
