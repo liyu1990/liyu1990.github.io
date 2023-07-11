@@ -34,4 +34,5 @@ IJCAI2019, Oral
 
 Services
 ======
-I am a reviewer for IEEE TKDE, IEEE ICDM, IEEE CIKM, and Elsevier Neurocomputing etc. I served as a student volunteer for ACM SIGIR2020.
+I am a reviewer for IEEE TKDE, IEEE ICDM, IEEE CIKM, and Elsevier Neurocomputing etc.     
+I served as a student volunteer for ACM SIGIR2020.
