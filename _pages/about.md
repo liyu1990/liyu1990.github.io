@@ -14,7 +14,7 @@ Before that, I was a data mining researcher at Qihoo360 from 2016-2018. In addit
 
 My research interests are in data mining, graph representation learning and so on.
 
-Publication
+Publications
 ======
 [Signed Laplacian Graph Neural Networks](http://liyu1990.github.io/files/paper2.pdf)    
 **Yu Li**, Yuan Tian, Jiawei Zhang, Yi Chang, Meng Qu, Jian Tang, Yi Chang    
