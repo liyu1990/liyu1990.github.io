@@ -16,19 +16,19 @@ My research interests are in data mining, graph representation learning and so o
 
 Publications
 ======
-[Signed Laplacian Graph Neural Networks](http://liyu1990.github.io/files/paper2.pdf)    
+[Signed Laplacian Graph Neural Networks](http://liyu1990.github.io/files/aaai2023_slgnn.pdf)    
 **Yu Li**, Meng Qu, Jian Tang, Yi Chang    
 AAAI2023, Oral
 
-[Orthogonal Graph Neural Networks](http://liyu1990.github.io/files/paper2.pdf)    
+[Orthogonal Graph Neural Networks](http://liyu1990.github.io/files/aaai2022_orthogconv.pdf)    
 Kai Guo, Kaixiong Zhou, Xia Hu, **Yu Li**, Yi Chang, Xin Wang    
 AAAI2022, Oral    
 
-[Learning Signed Network Embedding via Graph Attention](http://liyu1990.github.io/files/paper2.pdf)    
+[Learning Signed Network Embedding via Graph Attention](http://liyu1990.github.io/files/aaai2020_snea.pdf)    
 **Yu Li**, Yuan Tian, Jiawei Zhang, Yi Chang    
 AAAI2020    
 
-[Learning Network Embedding with Community Structural Information](http://liyu1990.github.io/files/paper2.pdf)    
+[Learning Network Embedding with Community Structural Information](http://liyu1990.github.io/files/ijcai2019_necs.pdf)    
 **Yu Li**, Ying Wang, Tingting Zhang, Jiawei Zhang, Yi Chang    
 IJCAI2019, Oral    
 
