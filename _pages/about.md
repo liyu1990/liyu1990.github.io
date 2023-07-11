@@ -17,7 +17,7 @@ My research interests are in data mining, graph representation learning and so o
 Publications
 ======
 [Signed Laplacian Graph Neural Networks](http://liyu1990.github.io/files/paper2.pdf)    
-**Yu Li**, Yuan Tian, Jiawei Zhang, Yi Chang, Meng Qu, Jian Tang, Yi Chang    
+**Yu Li**, Meng Qu, Jian Tang, Yi Chang    
 AAAI2023, Oral
 
 [Orthogonal Graph Neural Networks](http://liyu1990.github.io/files/paper2.pdf)    
