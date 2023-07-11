@@ -28,7 +28,7 @@ AAAI2022, Oral
 **Yu Li**, Yuan Tian, Jiawei Zhang, Yi Chang    
 AAAI2020    
 
-[Learning Network Embedding with Community Structural information](http://liyu1990.github.io/files/paper2.pdf)    
+[Learning Network Embedding with Community Structural Information](http://liyu1990.github.io/files/paper2.pdf)    
 **Yu Li**, Ying Wang, Tingting Zhang, Jiawei Zhang, Yi Chang    
 IJCAI2019, Oral    
 
